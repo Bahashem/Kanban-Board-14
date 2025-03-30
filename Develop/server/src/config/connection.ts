@@ -20,8 +20,3 @@ const sequelize = process.env.DB_URL
 
 export default sequelize;
 
-//<div className='login-notice'>
- //                       <h1>
- //                           Login to play!
- //                       </h1>
- //                   </div>
