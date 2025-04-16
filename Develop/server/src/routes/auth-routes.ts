@@ -5,6 +5,7 @@ import bcrypt from 'bcrypt';
  
 export const login = async (req: Request, res: Response) => {
 const {username, password}= req.body;
+console.log (username, password)
 
 const user = await User.findOne({
   where: {username},
