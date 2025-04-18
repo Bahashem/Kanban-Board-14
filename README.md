@@ -2,19 +2,19 @@ Kandan-Board-14 README
 License:MIT
 
 Description
-THis is a Kanban board application that allow me to securely access and mange my work tasks.
+This is a Kanban board application that allow me to securely access and mange my work tasks.
 
 Table of Content
 1.Installation Instructions 2.Usage Information 3.Contribution 4.Tests 5.Questions
 
 Installation Instructions
-nothing to install. Click the link to the deployment.
+nothing to install. Click the link to the deployment: https://kanban-board-14-1.onrender.com
 
 Usage Information
-The application is ran with deployong with Render and PostgreSQL
+The application is ran with deployed with Render and PostgreSQL: https://kanban-board-14-1.onrender.com
 
 Contribution
-No contribtions allowed at this time.
+No contribtions allowed at this time.The code was done with the help/assistance of the Bootcamp TA's, Bootcapm Instructor Dan, Chat GTP, and Copilot as needed.
 
 License
 This project is licensed under the MIT License.
